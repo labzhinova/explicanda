@@ -1,0 +1,13 @@
+site_name: ExplicandaPrototype
+site_description: "Explicanda prototype"
+site_author: Alessya Labz
+repo_url: https://github.com/labzhinova/explicanda
+
+theme: readthedocs
+
+nav:
+- Home: index.md
+- About:
+  - Release Notes: about/changelog.md
+  - Contributing: about/contributing.md
+  - License: about/license.md
